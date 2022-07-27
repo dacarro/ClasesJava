@@ -1,0 +1,15 @@
+En este txt se muestra información de coches implicaos en siniestros
+Marca Alfa Romeo
+La velocidad máxima para el modelo AA es 300
+La velocidad máxima para el modelo BB es 310
+La velocidad máxima para el modelo CC es 300
+Marca Audi
+La velocidad máxima para el modelo A1 es 270
+La velocidad máxima para el modelo A2 es 280
+La velocidad máxima para el modelo A3 es 290
+La velocidad máxima para el modelo A5 es 300
+La velocidad máxima para el modelo A8 es 310
+Marca Ferrari
+La velocidad máxima para el modelo Roja es 450
+Marca Ford
+La velocidad máxima para el modelo Mustang es 330

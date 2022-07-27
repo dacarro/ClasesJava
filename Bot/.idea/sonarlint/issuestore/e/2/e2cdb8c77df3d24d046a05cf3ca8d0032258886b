@@ -1,0 +1,14 @@
+
+0
+java:S1220""Move this file to a named package.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(èÃ¿Ö8…¿à÷£0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(†™ñ‹8…¿à÷£0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(š¢š¸8†¿à÷£0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ã¡Îôûÿÿÿÿ8†¿à÷£0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(­ÿïûÿÿÿÿ8‡¿à÷£0
+>	java:S131""Add a default case to this switch.(ˆí¬8‡¿à÷£0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Øä¹¥8ˆ¿à÷£0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(áóı§8ˆ¿à÷£0
+@
+java:S2119%"Save and re-use this "Random".(Å¨Şàşÿÿÿÿ8Š¿à÷£0
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(ÃÍµ–üÿÿÿÿ8Š¿à÷£0
