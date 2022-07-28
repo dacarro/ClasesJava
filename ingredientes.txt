@@ -1,0 +1,13 @@
+Ingredientes de la receta: 
+Ingrediente: Arroz bomba Peso/Cuantía: 1500.0
+Ingrediente: Pollo Peso/Cuantía: 1.0
+Ingrediente: Conejo Peso/Cuantía: 0.5
+Ingrediente: Judía verde plana Peso/Cuantía: 500.0
+Ingrediente: Garrofó Peso/Cuantía: 500.0
+Ingrediente: Alcachofa (opcional) Peso/Cuantía: 500.0
+Ingrediente: Aceite de oliva virgen extra Peso/Cuantía: 1.0
+Ingrediente: Pimentón dulce Peso/Cuantía: 1.0
+Ingrediente: Tomate triturado Peso/Cuantía: 1.0
+Ingrediente: Azafrán Peso/Cuantía: 1.0
+Ingrediente: Romero fresco Peso/Cuantía: 1.0
+Ingrediente: Sal Peso/Cuantía: 1.0

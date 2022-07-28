@@ -1,0 +1,6 @@
+Instrucciones receta:
+Plato: Paella
+Dificultad: Media
+Tiempo de elaboración: 10 min
+Tiempo de cocción: 1 h 15 min
+Tiempo de reposo: 5 min
